@@ -1,0 +1,26 @@
+{
+  "name": "NodeJS-Starter-Pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hydra008/NodeJS-Starter-Pack.git"
+  },
+  "keywords": [],
+  "author": "Godfather (Karan Shah)",
+  "email": "karanushah.1992@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hydra008/NodeJS-Starter-Pack/issues"
+  },
+  "homepage": "https://github.com/Hydra008/NodeJS-Starter-Pack#readme"
+}
