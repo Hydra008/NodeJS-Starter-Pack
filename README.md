@@ -13,5 +13,5 @@ This NodeJS starter pack will enable to build highly scalable, production ready 
 <ol>
   <li>Add authentication (Login register)</li>
   <li>reset password through email</li>
-  <l1>ready to use database drivers for MongoDB, Elasticsearch, SQL Server and MySQL</li>
+  <li>ready to use database drivers for MongoDB, Elasticsearch, SQL Server and MySQL</li>
 <ol>
